@@ -1,6 +1,6 @@
 {
   "name": "epub-tmpl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Serve up reading system templates for epub2web epub reader",
   "main": "index.js",
   "scripts": {
